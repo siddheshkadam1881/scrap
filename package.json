@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Devilla/web-scraper.git"
+    "url": "git+https://github.com/siddheshkadam1881/scrap.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Devilla/web-scraper/issues"
+    "url": "https://github.com/siddheshkadam1881/scrap/issues"
   },
-  "homepage": "https://github.com/Devilla/web-scraper#readme"
+  "homepage": "https://github.com/siddheshkadam1881/scrap#readme"
 }
