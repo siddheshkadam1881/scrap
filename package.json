@@ -1,0 +1,24 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper.js",
+  "dependencies": {
+    "html-to-json": "^0.6.0",
+    "request": "^2.49.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devilla/web-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devilla/web-scraper/issues"
+  },
+  "homepage": "https://github.com/Devilla/web-scraper#readme"
+}
